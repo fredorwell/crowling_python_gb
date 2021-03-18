@@ -1,0 +1,181 @@
+[{
+  "_id": {
+    "$oid": "6052ac633e1a1cdc78c6227f"
+  },
+  "news_title": [
+    "МИД вызвал посла России в Вашингтоне для обсуждения отношений с США"
+  ],
+  "news_url": [
+    "https://yandex.ru/news/story/MID_vyzval_posla_Rossii_vVashingtone_dlyaobsuzhdeniya_otnoshenij_sSSHA--01339757df45cd8b014a77f29e6b6485?lang=ru&rubric=index&fan=1&stid=A-s5f-Nz-unpMZw5IcAz&t=1616030107&tt=true&persistent_id=135737914"
+  ],
+  "news_source": [
+    "Ведомости"
+  ],
+  "news_date": "сегодня 04:13"
+},{
+  "_id": {
+    "$oid": "6052ac633e1a1cdc78c62280"
+  },
+  "news_title": [
+    "Операторов могут обязать передавать Роскомнадзору данные об абонентах"
+  ],
+  "news_url": [
+    "https://yandex.ru/news/story/Operatorov_mogut_obyazat_peredavat_Roskomnadzoru_dannye_ob_abonentakh--70c991eb448748fe39740073274e4714?lang=ru&rubric=index&fan=1&stid=U_3llbT3ixA8nZPpT1VC&t=1616030107&tt=true&persistent_id=135739197"
+  ],
+  "news_source": [
+    "RT на русском"
+  ],
+  "news_date": "сегодня 03:47"
+},{
+  "_id": {
+    "$oid": "6052ac633e1a1cdc78c62281"
+  },
+  "news_title": [
+    "Минторг США расширяет торговые санкции в отношении России"
+  ],
+  "news_url": [
+    "https://yandex.ru/news/story/Mintorg_SSHA_rasshiryaet_torgovye_sankcii_votnoshenii_Rossii--8e1382bf62952c6bf62693601ed73ec3?lang=ru&rubric=index&fan=1&stid=zJbumutI0V-XGtv3fwHv&t=1616030107&tt=true&persistent_id=135699453"
+  ],
+  "news_source": [
+    "RT на русском"
+  ],
+  "news_date": [
+    "вчера в 23:20"
+  ]
+},{
+  "_id": {
+    "$oid": "6052ac633e1a1cdc78c62282"
+  },
+  "news_title": [
+    "Самая дешевая рыба в России станет дороже"
+  ],
+  "news_url": [
+    "https://yandex.ru/news/story/Samaya_deshevaya_ryba_vRossii_stanet_dorozhe--ea382ca77966111ed064ef6c8a3f3780?lang=ru&rubric=index&fan=1&stid=llULR_Pa0Ad6YMcQZRez&t=1616030107&tt=true&persistent_id=135748985"
+  ],
+  "news_source": [
+    "Lenta.ru"
+  ],
+  "news_date": "сегодня 03:53"
+},{
+  "_id": {
+    "$oid": "6052ac633e1a1cdc78c62283"
+  },
+  "news_title": [
+    "Украина обвинила Иран в сокрытии причин крушения Boeing под Тегераном"
+  ],
+  "news_url": [
+    "https://yandex.ru/news/story/Ukraina_obvinila_Iran_vsokrytii_prichin_krusheniya_Boeing_podTegeranom--10a11efae1450e8f1a56e288dad033fa?lang=ru&rubric=index&fan=1&stid=e3nuWCMyCxsZxlPAt4Vo&t=1616030107&tt=true&persistent_id=135728728"
+  ],
+  "news_source": [
+    "РБК"
+  ],
+  "news_date": "сегодня 03:06"
+},{
+  "_id": {
+    "$oid": "6052ac633e1a1cdc78c62284"
+  },
+  "news_title": [
+    "Посла России в США пригласили в Москву после слов Байдена о Путине"
+  ],
+  "news_url": "https://lenta.ru/news/2021/03/17/priglasili/",
+  "news_source": "lenta.ru",
+  "news_date": [
+    " 20:26, 17 марта 2021"
+  ]
+},{
+  "_id": {
+    "$oid": "6052ac633e1a1cdc78c62285"
+  },
+  "news_title": [
+    "Байден пересказал разговор с Путиным и обрушил курс рубля"
+  ],
+  "news_url": "https://lenta.ru/news/2021/03/17/magic/",
+  "news_source": "lenta.ru",
+  "news_date": [
+    " 15:51, 17 марта 2021"
+  ]
+},{
+  "_id": {
+    "$oid": "6052ac633e1a1cdc78c62286"
+  },
+  "news_title": [
+    "США объявили о новых санкциях против России"
+  ],
+  "news_url": "https://lenta.ru/news/2021/03/17/newnew/",
+  "news_source": "lenta.ru",
+  "news_date": [
+    " 16:13, 17 марта 2021"
+  ]
+},{
+  "_id": {
+    "$oid": "6052ac633e1a1cdc78c62287"
+  },
+  "news_title": [
+    "Путин потребовал от чиновников вернуть украденное в Россию"
+  ],
+  "news_url": "https://lenta.ru/news/2021/03/17/stolen/",
+  "news_source": "lenta.ru",
+  "news_date": [
+    " 15:06, 17 марта 2021"
+  ]
+},{
+  "_id": {
+    "$oid": "6052ac633e1a1cdc78c62288"
+  },
+  "news_title": [
+    "Володин назвал заявление Байдена о Путине истерикой от бессилия"
+  ],
+  "news_url": "https://lenta.ru/news/2021/03/17/bidenvolodin/",
+  "news_source": "lenta.ru",
+  "news_date": [
+    " 15:49, 17 марта 2021"
+  ]
+},{
+  "_id": {
+    "$oid": "6052ac633e1a1cdc78c62289"
+  },
+  "news_title": [
+    "Байден захотел заставить Путина «заплатить» за вмешательство в выборы"
+  ],
+  "news_url": "https://lenta.ru/news/2021/03/17/kotvety/",
+  "news_source": "lenta.ru",
+  "news_date": [
+    " 14:48, 17 марта 2021"
+  ]
+},{
+  "_id": {
+    "$oid": "6052ac633e1a1cdc78c6228a"
+  },
+  "news_title": [
+    "Госдума ужесточила наказание за оскорбление ветеранов и реабилитацию нацизма"
+  ],
+  "news_url": "https://lenta.ru/news/2021/03/17/nakaz/",
+  "news_source": "lenta.ru",
+  "news_date": [
+    " 13:09, 17 марта 2021"
+  ]
+},{
+  "_id": {
+    "$oid": "6052ac633e1a1cdc78c6228b"
+  },
+  "news_title": [
+    "В России впервые с октября выявили менее 9 тысяч случаев COVID-19"
+  ],
+  "news_url": "https://lenta.ru/news/2021/03/17/stat/",
+  "news_source": "lenta.ru",
+  "news_date": [
+    " 11:05, 17 марта 2021"
+  ]
+},{
+  "_id": {
+    "$oid": "6052ac633e1a1cdc78c6228c"
+  },
+  "news_title": [
+    "В США появление Су-57 в Турции назвали кошмаром НАТО"
+  ],
+  "news_url": "https://lenta.ru/news/2021/03/17/su57/",
+  "news_source": "lenta.ru",
+  "news_date": [
+    " 11:55, 17 марта 2021"
+  ]
+}]
